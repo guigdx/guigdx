@@ -1,6 +1,6 @@
 ## olá! eu sou o Guilherme
 
-- 🌱 tentando adquirir o maximo de conhecimento na area da programação
+- 🌱 tentando adquirir o maximo de conhecimento na aréa da programação
 - 📫 tentando alcançar o primeiro emprego na aréa
 - 😄 Pronouns: ele/dele
 
